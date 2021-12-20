@@ -1,13 +1,13 @@
 {
-    "account_id": "YOUR_DISCORD_ACCOUNT_ID",
+    "account_id": "593952301698252830",
     "bot": {
-        "nickname": "RAID BY XXX",
+        "nickname": "Yassine",
         "icon": "https://6.top4top.net/p_1415xrqem1.jpg",
-        "token": "BOTS_TOKEN"
+        "token": "OTE1MTM5MTE5MDU3ODcwODU4.YaXPuA.c5gdKgKAINShKPOMJqd4CWSd_lU"
     },
     "guild": {
-        "id": "TARGET_GUILD_ID",
+        "id": "912096478393147482",
         "new_icon": "https://6.top4top.net/p_1415xrqem1.jpg",
-        "new_name": "RAID BY XXX"
+        "new_name": "Hacked By Yassine"
     }
 }
